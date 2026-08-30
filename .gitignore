@@ -39,3 +39,8 @@ tests/pdf-corpus/*.pdf
 npm/binaries/
 bench/regression-results.json
 /libonnxruntime.so
+
+# Beads / Dolt files (added by bd init)
+.dolt/
+*.db
+.beads-credential-key
